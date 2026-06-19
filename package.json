@@ -1,0 +1,1 @@
+{"name":"daves-comp-lete-auto-service","version":"1.0.0","private":true,"description":"Static lead-generation website for Dave's Complete Auto Service in Emeryville, CA.","scripts":{"check":"node scripts/check.js","preview":"python3 -m http.server 3000"},"devDependencies":{}}
