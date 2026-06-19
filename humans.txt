@@ -1,0 +1,8 @@
+/* TEAM */
+Business: Dave's Complete Auto Service
+Owner: Prem
+Phone: (510) 451-3462
+Address: 2801 San Pablo Avenue, Emeryville, CA 94608
+
+/* SITE */
+Static HTML/CSS/JS lead-generation website for auto repair Emeryville CA.
